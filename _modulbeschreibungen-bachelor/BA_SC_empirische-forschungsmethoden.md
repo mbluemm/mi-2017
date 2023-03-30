@@ -38,17 +38,16 @@ Die Studierenden sollen die unterschiedlichen Herangehensweisen quantitativer un
 ## Inhalt
 * Wissenschaftstheoretische Grundlagen
 * Induktion, Deduktion
-* Unterschied zwischen quantitativer und qualitativer Forschung
-* Interviews gestalten, durchführen und auswerten
-* Beobachtungsmethoden
-* Ethnographische Methoden
-* Hypothesengewinnung und Theoriebildung
-* Statistische Verfahren für quantitative Forschung
+* quantitative und qualitative Forschung; Mixed Methods
+* Erhebungsmethoden: Interviews, Umfragen, Beobachtung
+* einfache Forschungsdesigns entwerfen
+* Interviews / Umfragen gestalten, durchführen und auswerten
 * Aussagekraft der Ergebnisse (statistische Signifikanz, interne und externe Valididät)
+* Forschungsethik, gute wisssenschaftliche Praxis
 
 ## Medienformen
 *	Beamer-gestützte Vorlesungen (Folien in elektronischer Form)
-*	Screencasts und Handouts
+*	Screencasts und Literatur
 * Beispielmedien
 
 ## Literatur
